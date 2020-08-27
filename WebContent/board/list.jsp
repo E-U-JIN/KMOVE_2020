@@ -63,7 +63,7 @@ body {
 				</tbody>
 			</table>
 		</div>
-		<a href="../aoth/login.jsp">로그인 화면으로 돌아가기</a>
+		<a href="../auth/login.jsp">로그인 화면으로 돌아가기</a>
 	</div>
 
 
